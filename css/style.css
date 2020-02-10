@@ -128,9 +128,6 @@ p{
     margin-bottom: 70px;
 }
 
-.about__items{
-
-}
 .about__items-svg{
     border: 1px solid #4985FF;
     border-radius: 50px;
@@ -240,8 +237,7 @@ p{
     width: 100%;
     top: 0;
 }
-.work__about{
-}
+
 .work__about-title{
     font-size: 36px;
     font-weight: 700;
