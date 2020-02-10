@@ -9,10 +9,9 @@ a, a:hover{
     text-decoration: none;
 }
 header{
-    position: fixed;
+    position: absolute;
     width: 100%;
-    background: #4985FF;
-    z-index: 10;
+    padding: 30px 0 30px;
 }
 header:before{
     content: '';
@@ -40,12 +39,14 @@ p{
     text-transform: uppercase;
     font-size: 40px;
     transition: 0.4s;
+    line-height: 1;
 }
 .logo:hover{
-    color: #582dca;
+    color: #4985FF;
 }
 .nav a{
     color: #fff;
+    line-height: 1;
 }
 .nav a:hover{
     color: #fff;
