@@ -337,6 +337,7 @@ p{
     height: 570px;
     width: 100%;
     top: 0;
+    z-index: -1;
 }
 .media-title{
     font-size: 36px;
